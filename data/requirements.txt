@@ -1,0 +1,9 @@
+matplotlib
+pandas
+googletrans
+openai
+google-cloud-translate==2.0.1
+google-cloud-api-keys
+google-cloud-language
+google-auth>=1.24.0
+notebook==6.5.6
